@@ -1,0 +1,15 @@
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\bin\Debug\net6.0\Task29_option_2.exe
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\bin\Debug\net6.0\Task29_option_2.deps.json
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\bin\Debug\net6.0\Task29_option_2.runtimeconfig.json
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\bin\Debug\net6.0\Task29_option_2.dll
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\bin\Debug\net6.0\Task29_option_2.pdb
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.csproj.AssemblyReference.cache
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.AssemblyInfoInputs.cache
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.AssemblyInfo.cs
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.csproj.CoreCompileInputs.cache
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.dll
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\refint\Task29_option_2.dll
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.pdb
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\Task29_option_2.genruntimeconfig.cache
+C:\Users\m_eli\OneDrive\Рабочий стол\Лекции, Семинары и дз C#\homework_for_4_seminar_C#\Task29_option_2\obj\Debug\net6.0\ref\Task29_option_2.dll
